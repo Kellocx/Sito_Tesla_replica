@@ -1,5 +1,5 @@
 # Replica Sito Tesla.com
-## Sito replicato con studenti del corso Frontend Developers
+## Sito replicato al corso Frontend Developers
 *Ottobre 2025*
 🧑‍💻
 
